@@ -1,8 +1,11 @@
 const path = require('path');
 const express = require('express');
 const server = express();
+const port = process.env.PORT || 3000;
 
-server.listen(2020, () => console.log('Abriendo el servidor http://localhost:2020'));
+
+
+server.listen(port,() => console.log(`Abiendo servidor en http://localhost:${port}`));
 
 const public = path.resolve(__dirname, './public');
 
