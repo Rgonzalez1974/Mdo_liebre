@@ -34,7 +34,7 @@
     }
 
     .descrip {
-        display: block;
+        display: none;
         width: 100%;
         color: white;
     }
@@ -55,4 +55,5 @@
 
     .iconsfoot:hover {
         color: #39b54a;
+    }
     }

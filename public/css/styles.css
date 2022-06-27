@@ -171,29 +171,13 @@ h2 {
     width: 20%;
 }
 
-#botonReseteo {
-    width: 30%;
-    border-style: none;
-    padding: 10px;
-    margin: 20px 0px;
-    border-radius: 5px;
-    color: white;
-    background-color: #AA0044;
-}
+
 
 #botonReseteo:hover {
     background-color: #CC1155;
 }
 
-#botonIngreso {
-    width: 30%;
-    border-style: none;
-    padding: 10px;
-    margin: 20px 0px;
-    border-radius: 5px;
-    color: white;
-    background-color: green;
-}
+
 
 #botonIngreso:hover {
     background-color: green;

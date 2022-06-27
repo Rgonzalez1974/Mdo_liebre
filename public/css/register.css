@@ -19,6 +19,43 @@ input, button{
     border: none;
 }
 
+.subtitulo{
+    font-weight: bold;
+    padding: 10px 5px;
+    font-size: 16px;
+}
+
+.botones{
+    display: flex;
+    flex-direction: row;
+       
+}
+
+  
+
+#botonIngreso {
+    width: 50%;
+    border-style: none;
+    
+    border-radius: 5px;
+    color: white;
+    background-color: #1259c3;
+    border: solid 1px #666;
+}
+
+#botonReseteo {
+    width: 50%;
+    border-style: none;
+    
+    border-radius: 5px;
+    color: white;
+    background-color: #AA0044;
+}
+
+.botones a {
+    text-decoration: none;
+    color: white;
+}
 
 
 @media(min-width: 361px) {
