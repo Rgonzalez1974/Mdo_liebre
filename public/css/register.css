@@ -31,6 +31,17 @@ input, button{
        
 }
 
+
+
+#botonReseteo:hover {
+    background-color: #CC1155;
+}
+
+
+
+#botonIngreso:hover {
+    background-color: green;
+}
   
 
 #botonIngreso {
@@ -49,7 +60,7 @@ input, button{
     
     border-radius: 5px;
     color: white;
-    background-color: #AA0044;
+    background-color: #1259c3;
 }
 
 .botones a {

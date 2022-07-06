@@ -34,6 +34,11 @@ input, button{
     border: solid 1px #666;
 }
 
+.botones button:hover {
+    background-color: #0022AA;
+    color: white;
+}
+
 @media (min-width: 680px){
 
 .caja-login {
